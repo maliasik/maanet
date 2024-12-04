@@ -22,8 +22,8 @@ services:
       - maa-network
     environment:
       - NODE_ENV=development
-      - MYSQL_USER=root
-      - MYSQL_PASSWORD=Root.123
+      - MYSQL_USER=mali
+      - MYSQL_PASSWORD=Mali.123
       - MYSQL_DATABASE=maanetdb
       - MYSQL_HOST=maanet-mysql
       - MYSQL_PORT=3306
